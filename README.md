@@ -8,7 +8,7 @@ So in the last lesson, we saw a function called merging that allowed us to merge
 
 The merge sort algorithm sorts a list in two main steps.  
 
-**First**, take an unordered list and continue splitting the list into smaller and smaller subarrays until the subarrays each one element.
+**First**, take an unordered list and continue splitting the list into smaller and smaller subarrays until the subarrays each contain one element.
 
 ```javascript
 [7, 1, 2, 8, 6, 10, 4, 3]
